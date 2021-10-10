@@ -15,7 +15,6 @@
 
       <div class="content">
         {{ description }}
-        <p class="pt-4">📧: <a v-html="email"></a></p>
         <p>
           👨‍💻: <a target="_blank" rel="noopener" v-bind:href="gitHub">GitHub</a>
         </p>
@@ -35,7 +34,6 @@ export default {
     description: String,
     linkedIn: String,
     gitHub: String,
-    email: String,
     name: String,
     jobTitle: String,
     imageAlt: String,

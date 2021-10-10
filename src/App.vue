@@ -6,7 +6,6 @@
           :jobTitle="job"
           :name="name"
           :description="description"
-          :email="email"
           :gitHub="gitHubUrl"
           :linkedIn="linkedInUrl"
           :imageAlt="imageAlt"
@@ -30,7 +29,6 @@ export default {
     return {
       linkedInUrl: "https://www.linkedin.com/in/thomas-lafford/",
       gitHubUrl: "https://github.com/Laffini",
-      email: "tom&commat;laffyco&period;net",
       name: "Tom Lafford",
       job: "Aerospace Software Development Engineer",
       description: `Multi-disciplined apprentice Software Engineer working at BAE Systems.
