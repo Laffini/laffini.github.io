@@ -15,7 +15,7 @@
 
       <div class="content">
         {{ description }}
-        <p>
+        <p class="mt-3">
           👨‍💻: <a target="_blank" rel="noopener" v-bind:href="gitHub">GitHub</a>
         </p>
         <p>
