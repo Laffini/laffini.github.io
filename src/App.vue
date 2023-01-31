@@ -30,8 +30,8 @@ export default {
       linkedInUrl: "https://www.linkedin.com/in/thomas-lafford/",
       gitHubUrl: "https://github.com/Laffini",
       name: "Tom Lafford",
-      job: "Aerospace Software Development Engineer",
-      description: `Multi-disciplined apprentice Software Engineer working at BAE Systems.
+      job: "Software Engineer",
+      description: `Multi-disciplined Software Engineer working at BAE Systems.
           Graduate with a BSc (Hons) in Software Engineering from the University of
           Central Lancashire.`,
       imageAlt: "A picture of Tom Lafford",
